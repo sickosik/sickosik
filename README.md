@@ -1,4 +1,4 @@
-### Hi there 👋
+### 이윤식의 GitHub 입니다!
 
 <!--
 **sickosik/sickosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
